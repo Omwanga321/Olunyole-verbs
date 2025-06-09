@@ -64,5 +64,6 @@ tekha	cook
 tesia	marry
 timbuka	dance
 yoka	 make noise
+
 ![image](https://github.com/user-attachments/assets/8d07b784-b150-4784-ba38-661dd7a1fc58)
 
